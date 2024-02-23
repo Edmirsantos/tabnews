@@ -1,0 +1,15 @@
+{
+  "name": "tabnews",
+  "version": "1.0.0",
+  "description": "Implementação do tabnews do Filipe Deschamps",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "next": "^13.1.6",
+    "react-dom": "^18.2.0"
+  }
+}
